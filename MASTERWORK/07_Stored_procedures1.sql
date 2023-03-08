@@ -39,7 +39,7 @@ GO
 
 --test1
 --Későbbi belépési dátum!
-EXEC Aid.sptAddNewVolunter 'Nyilas', NULL, 'Misi', '2003-07-17','2022-08-21', NULL, 1, 28; 
+/**EXEC Aid.sptAddNewVolunter 'Nyilas', NULL, 'Misi', '2003-07-17','2022-08-21', NULL, 1, 28; 
 
 --test2
 --Fiatalabb, mint 18 éves jelentkező
@@ -47,5 +47,5 @@ EXEC Aid.sptAddNewVolunter 'Nyilas', NULL, 'Misi', '2005-07-17','2020-08-28', NU
 
 --test3
 --Megfelel a feltételeknek, rögzítésre kerül
-EXEC Aid.sptAddNewVolunter 'Nyilas', NULL, 'Misi', '2004-06-17','2021-06-29', NULL, 1, 28; 
+EXEC Aid.sptAddNewVolunter 'Nyilas', NULL, 'Misi', '2004-06-17','2021-06-29', NULL, 1, 28;**/
 
