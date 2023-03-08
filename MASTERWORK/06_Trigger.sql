@@ -39,7 +39,7 @@ GO
 
 --teszt
 
-UPDATE Aid.Donations
+/**UPDATE Aid.Donations
 SET DonationStatus=0
 WHERE DonationID=4;
 
@@ -47,4 +47,4 @@ DELETE
 FROM Aid.Donations
 WHERE DonationID=4;
 
-SELECT * FROM sys.triggers; 
+SELECT * FROM sys.triggers;**/
