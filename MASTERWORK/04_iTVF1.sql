@@ -16,9 +16,9 @@ GO
 
 -- teszt
 
-SELECT * FROM Aid.DepStat ('Projekt Menedzsment');
+/**SELECT * FROM Aid.DepStat ('Projekt Menedzsment');
 SELECT * FROM Aid.DepStat ('Pénzügyi és Adománykezelő Osztály');
 SELECT * FROM Aid.DepStat ('Humánpolitikai Osztály');
 SELECT * FROM Aid.DepStat ('Üzemeltetési Osztály');
 SELECT * FROM Aid.DepStat ('Kommunikációs Osztály');
-GO
+GO**/
