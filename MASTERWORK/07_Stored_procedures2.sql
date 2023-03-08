@@ -42,7 +42,7 @@ BEGIN CATCH
         PRINT 'Module: ' + COALESCE(ERROR_PROCEDURE(), '');
 END CATCH
 
---test cases 1-5
+/**--test cases 1-5
 --Test1 A mobilszám nem kezdődhet +/- előjellel!
 EXEC Aid.stpChangeVolunterAddress 18, '+36207775550';
 --Test2 A mobilszám nem kezdődhet +/- előjellel!
@@ -55,4 +55,4 @@ EXEC Aid.stpChangeVolunterAddress 18, '36207770';
 EXEC Aid.stpChangeVolunterAddress 30, '36207775550';
 
 --Felülíródik!
-EXEC Aid.stpChangeVolunterAddress 18, '36207775557';
+EXEC Aid.stpChangeVolunterAddress 18, '36207775557';**/
