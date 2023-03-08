@@ -39,7 +39,7 @@ SET NOCOUNT ON;
     END CATCH
 GO
 
---Test1-4
+/**--Test1-4
 --nincs ilyen azonosítószámú önkéntes
 EXEC Aid.stpDeleteVolunter 20;
 --aktív önkéntes
@@ -47,5 +47,5 @@ EXEC Aid.stpDeleteVolunter 2;
 --kevesebb, mint egy éve lépett ki
 EXEC Aid.stpDeleteVolunter 1;
 --TÖRÖL! Itt éS a Connection táblán is!
-EXEC Aid.stpDeleteVolunter 6;
+EXEC Aid.stpDeleteVolunter 6;**/
 
