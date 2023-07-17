@@ -2,6 +2,8 @@
 
 
 ## "HATÁRTALAN SEGÍTSÉG" (Borderless Aid)
+### (C)opyright Beretzky Marianna 2022.
+
 
 Az adatbázis célja egy menekültek ellátásával foglalkozó segélyszervezt mindennapos munkájának a támogatása. Ennek a sokrétű munkának a megszervezésében kulcsfontosságú a koordináció. Nevezetesen az, hogy a megfelelő személyek, a megfelelő helyen, kellő tárgyi felszereltséggel tudják a munkájukat végezni.
 
